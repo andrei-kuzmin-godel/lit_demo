@@ -1,5 +1,5 @@
 import { html, TemplateResult } from 'lit';
-import '../src/custom-element.js';
+import '../src/CustomElement.js';
 
 export default {
   title: 'CustomElement',
